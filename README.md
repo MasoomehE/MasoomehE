@@ -2,7 +2,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/106168428/190207374-614dd339-b72c-4fed-bec0-69e1c83d741d.svg" alt="just for fun" />
 
-<h2 align="center">Hello👋 I am Masoomeh Ebrahimzadeh👼🏻</h2>
+<h2 align="center">Hello👋 I'm Masoomeh Ebrahimzadeh👼🏻</h2>
 
 <p align="center">I am a front-end developer👩🏻‍💻 I like to teach it to everyone,💙 and that's why I have a YouTube channel teaching front-end programming.😎</p>
 
@@ -12,8 +12,8 @@
 
 <h2 align="left">Ways to contact me: ☎️</h2>
 
-<div style="display : flex ; gap : 10rem ;">
   <a href="https://www.instagram.com/blue__site/"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-instagram-90.png" ></a>
+  
   <a href="https://www.youtube.com/channel/UC6vDICD0yMAMBY2nB_T_HUA"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-youtube-100.png" ></a>         <a href="https://t.me/masoomeh388"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-telegram-100.png" ></a>
-</div>
+
 
