@@ -12,8 +12,4 @@
 
 <h2 align="left">Ways to contact me: ☎️</h2>
 
-<َa href="https://www.instagram.com/blue__site/"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-instagram-64.png" /></a>
-
-<َa href="https://www.youtube.com/channel/UC6vDICD0yMAMBY2nB_T_HUA"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-youtube-100.png" /></a>
-
-<َa href="https://t.me/masoomeh388"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-telegram-100.png" /></a>
+<َa href="https://www.instagram.com/blue__site/"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-instagram-64.png" /></a>  <َa href="https://www.youtube.com/channel/UC6vDICD0yMAMBY2nB_T_HUA"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-youtube-100.png" /></a>  <َa href="https://t.me/masoomeh388"><img src="https://github.com/MasoomehE/MasoomehE/blob/main/image/icons8-telegram-100.png" /></a>
